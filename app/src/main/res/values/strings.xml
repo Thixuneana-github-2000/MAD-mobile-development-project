@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SethSaha Pharmacy</string>
+    <string name="edge">20</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_searches">Search</string>
+    <string name="sample_hint">Search</string>
+
+</resources>
